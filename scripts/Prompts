@@ -1,0 +1,36 @@
+## 🧠 Prompts
+
+
+ChatGPT：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Crie um título de um podacsat sobre o tema de componentes de hardware, o título deve ser simples e curto, e tenha uma temática de algum herói da marvel no título, me liste 5 variações de títulos                                                                             |
+| conteúdo | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em componentes de hardware para o computador cujo o nome é "Teia de Componentes " e tem foco em compatibilidade, manutenção, cuidado com os componentes, foco no público alvo de iniciantes.
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
+- no bloco [CURIOSIDADE 1] substitua por um alerta sobre o overclock em componentes gerais e conclua dizendo  o porquê não devemos praticar o overclock.  
+- no bloco [CURIOSIDADE 2] Fale sobre como verificar a compatibilidade entre componentes como: CPU, PLACA DE VÍDEO, MEMÓRIA RAM, ETC. Para garantir o melhor desempenho possível de um computador montado pessoalmente. 
+- no bloco [FINALIZAÇÃO] substitua por uma despedida com o final 'Eu sou João e esse foi o ''Teia de componentes'' dessa semana' 
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada João 
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
+
+|   capa   | 1. Nome do podcast: Teia de Componentes
+2. Quero uma capa com foco em hardware mas com base na capa do albúm do red hot chili peppers californications.
+3. Cores vibrantes e minimalistas
+4. Não quero que apareça o meu nome
+5. Proporção de 3:2 
